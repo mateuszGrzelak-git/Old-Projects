@@ -1,0 +1,10 @@
+Bug fixes:
+
+- numery > 99 usuwają pasek
+- kursor usuwa litery
+- backspace
+
+Features:
+
+- kolory dla int
+- zmiana liter za pomocą get cursor

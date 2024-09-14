@@ -1,0 +1,7 @@
+input = input()
+file = open(input,"r")
+strings = str(file)
+writer = open("writer","w")
+writer.writelines(strings)
+file.close()
+writer.close()

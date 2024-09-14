@@ -1,0 +1,8 @@
+Bug fixes:
+
+- kursor usuwa litery
+
+Features:
+
+- kolory dla int
+- zmiana liter za pomocą get cursor
